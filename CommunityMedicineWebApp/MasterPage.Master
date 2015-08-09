@@ -1,0 +1,122 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="CommunityMedicineWebApp.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    
+    <link href="Style/Style.css" rel="stylesheet" />
+<title>Community Medichine Automation</title>
+   
+   
+</head>
+<body>
+    <form id="form2" runat="server">
+     
+     <asp:ScriptManager ID="ScriptManager1" runat="server">
+</asp:ScriptManager>
+    <div id="MainHeader" >
+        <table style="width: 100%; background-image: url('../Image/bg.jpg'); ">
+            <tr>
+                <td align="left" style="width: 60%;" class="banner_left">
+
+                </td>
+                <td align="left" valign="top" style="width: 40%">
+                    <table style="width: 100%;">
+                        <tr>
+                            <td align="left" valign="top" style="width: 40%">
+                                User ID
+                            </td>
+                            <td align="left" valign="top" style="width: 40%">
+                                Password
+                            </td>
+                            <td align="left" valign="top" style="width: 20%">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top" style="width: 40%">
+                                <asp:TextBox ID="txtUserID" runat="server" CssClass="input_text_box" Width="150px"></asp:TextBox>
+                            </td>
+                            <td align="left" valign="top" style="width: 40%">
+                                <asp:TextBox ID="txtPassword" runat="server" CssClass="input_text_box" Width="150px"
+                                    TextMode="Password"></asp:TextBox>
+                            </td>
+                            <td align="left" valign="top" style="width: 20%">
+                                <asp:Button ID="btnLogin" runat="server" Text="Login" Height="20px" OnClick="btnLogin_Click"/>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td align="right" valign="top" style="width: 40%">
+                                   &nbsp;</td>
+                            <td align="left" valign="top" style="width: 40%">
+                                &nbsp;</td>
+                            <td align="left" valign="top" style="width: 20%">
+                                 &nbsp;</td>
+                        </tr>
+     
+            </table>
+                 </td>
+         </tr> 
+         </table>
+    </div>
+     <div id="menu">
+      
+     
+        
+        <table style="width: 100%;">
+        <tr>
+        <td>
+        </td>
+        <td>
+        </td>
+        </tr>
+                <tr>
+               <td  style="width: 10%; background: transparent;height: 46px;" > </td>
+                    <td  align="left" valign="middle" style="width: 90%; background: transparent;height: 46px;" >
+                   <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" Font-Names="Arial" ForeColor="#000000"
+                            StaticSubMenuIndent="10px" Font-Size="Large">
+                            <StaticMenuItemStyle HorizontalPadding="20px" VerticalPadding="2px" />
+                            <StaticHoverStyle BackColor="#084787" />
+                            <DynamicHoverStyle BackColor="#084787" ForeColor="White" />
+                            <DynamicMenuStyle BackColor="#084787" />
+                            <StaticSelectedStyle BackColor="#084787" />
+                            <DynamicSelectedStyle BackColor="#084787" />
+                            <DynamicMenuItemStyle HorizontalPadding="10px" VerticalPadding="2px" />
+                            <StaticHoverStyle BackColor="#084787" ForeColor="White" />
+                            <Items>
+                                <asp:MenuItem></asp:MenuItem>
+                                <asp:MenuItem Text="Home" Value="Home" NavigateUrl="~/UI/Home.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Medichine Entry" Value="MedichineEntry" NavigateUrl="~/UI/MedichineEntry.aspx?mnuID=1">
+                                </asp:MenuItem>
+                                <asp:MenuItem Text="Disease Enrty" Value="DiseaseEnrty" NavigateUrl="~/UI/DiseaseEntry.aspx?mnuID=2">
+                                </asp:MenuItem>                                
+                                <asp:MenuItem Text="New Center" Value="New Center" NavigateUrl="~/UI/CreateCenter.aspx?mnuID=3"></asp:MenuItem>
+                                <asp:MenuItem Text="Medichine Send" Value="Medichine Send" NavigateUrl="~/UI/MedicineStock.aspx?mnuID=4"></asp:MenuItem>
+                                <asp:MenuItem Text="Contact" Value="Contact" NavigateUrl="~/UI/Contract.aspx">
+                                                                </asp:MenuItem>
+                            </Items>
+                        </asp:Menu>
+                    </td>
+                </tr>
+                <tr>
+        <td>
+        </td>
+        <td>
+        </td>
+        </tr>
+            </table>
+        
+    </div>
+   
+    
+    <div id="divPanal"   align="center">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+        <div class="footer"> 
+            Developed by - Infinity Loop
+        </div>
+
+    </form>
+</body>
+</html>

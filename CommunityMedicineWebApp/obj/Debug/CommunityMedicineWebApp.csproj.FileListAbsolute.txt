@@ -1,0 +1,32 @@
+E:\Hasan\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.dll.config
+E:\Hasan\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.dll
+E:\Hasan\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.pdb
+E:\Hasan\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.csprojResolveAssemblyReference.cache
+E:\Hasan\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.dll
+E:\Hasan\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.pdb
+D:\Study\BITM-SEIP\Tutorials\WebApp.Net\20-06-2015\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.dll.config
+D:\Study\BITM-SEIP\Tutorials\WebApp.Net\20-06-2015\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.dll
+D:\Study\BITM-SEIP\Tutorials\WebApp.Net\20-06-2015\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.pdb
+D:\Study\BITM-SEIP\Tutorials\WebApp.Net\20-06-2015\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.dll
+D:\Study\BITM-SEIP\Tutorials\WebApp.Net\20-06-2015\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.pdb
+D:\Study\BITM-SEIP\Tutorials\WebApp.Net\20-06-2015\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.csprojResolveAssemblyReference.cache
+C:\Users\mehedi\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.dll.config
+C:\Users\mehedi\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.dll
+C:\Users\mehedi\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.pdb
+C:\Users\mehedi\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.csprojResolveAssemblyReference.cache
+C:\Users\mehedi\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.dll
+C:\Users\mehedi\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.pdb
+C:\Users\MR\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.dll
+C:\Users\MR\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.pdb
+C:\Users\MR\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.dll
+C:\Users\MR\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.pdb
+C:\Users\MR\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.dll.config
+C:\Users\MR\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.csprojResolveAssemblyReference.cache
+C:\Users\MR\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\Newtonsoft.Json.dll
+C:\Users\MR\Desktop\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\Newtonsoft.Json.xml
+F:\sujon latest cv\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.dll
+F:\sujon latest cv\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\CommunityMedicineWebApp.pdb
+F:\sujon latest cv\CommunityMedicineWebApp\CommunityMedicineWebApp\bin\Newtonsoft.Json.xml
+F:\sujon latest cv\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.csprojResolveAssemblyReference.cache
+F:\sujon latest cv\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.dll
+F:\sujon latest cv\CommunityMedicineWebApp\CommunityMedicineWebApp\obj\Debug\CommunityMedicineWebApp.pdb
